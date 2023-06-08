@@ -1,1 +1,3 @@
-# p1-parcial-1-dwn2c-Recuperatorio
+Alumno: Julián López
+Docente: Fabrizzio Carlassara.
+Materia: Programacion 1. (Recuperatorio)
