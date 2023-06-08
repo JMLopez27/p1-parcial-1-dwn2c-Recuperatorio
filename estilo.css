@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    margin: auto;
+    height: 100%;
+    max-width: 1200px;
+    background-color: aqua;
+}
+
+h1{
+   font-size: 2rem;
+   text-transform: uppercase;
+   margin: auto;
+   text-align: center;
+   background-color: black;
+   color: white;
+   height: 100px;
+   padding-top: 2.5rem;
+}
+
+button{
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    margin-left: 1rem;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+.centrarBotones{
+    text-align: center;
+    height: 1rem;
+}
+
+section{
+    margin:4.5rem;
+}
+
+.altaDuracion{
+    color:red;
+    font-style: bold;
+}
+
+.bajaDuracion{
+    font-style: bold;
+}
